@@ -1,0 +1,2 @@
+com.dwbi.common.mq.config.MqInitMain
+com.dwbi.common.mq.config.MqMessageProducer
